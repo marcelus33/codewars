@@ -13,3 +13,11 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 ![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
 
 ## List of Challenges
+
+### PHP:
+
+* [Complementary DNA](php/complementary_dna.php)
+* [Consecutive Strings](php/consecutive_strings.php) 
+* [Count Duplicates](php/count_duplicates.php)
+* [Morse Code 1](php/morse_code_1.php)
+* [Brainscrambler Interpreter](php/narcissistic_number.php)
