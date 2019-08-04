@@ -25,11 +25,12 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 * [Buying a car](php/buying_a_car.php)
 
 
-###C++:
+### C++:
 
+* [Is this a triangle?](c++/is_this_a_triangle.cpp)
 * [Roman Numerals Decoder](c++/roman_numerals_decoder.cpp)
 
-###Java
+### Java
 
 * [Beginner Series #3 Sum of Numbers](java/beginner_series_3_sum_of_numbers.java)
 
