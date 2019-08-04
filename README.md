@@ -29,4 +29,8 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 
 * [Roman Numerals Decoder](c++/roman_numerals_decoder.cpp)
 
+###Java
+
+* [Beginner Series #3 Sum of Numbers](java/beginner_series_3_sum_of_numbers.java)
+
 
