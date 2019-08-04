@@ -27,5 +27,6 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 
 ###C++:
 
+* [Roman Numerals Decoder](c++/roman_numerals_decoder.cpp)
 
 
