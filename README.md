@@ -6,7 +6,7 @@ Repository where I save copies of the katas I've completed on [codewars.com](htt
 ## What is CodeWars?
 
 It's a website where you can face challenges and you get leveled by how good
-you do. You choose from a variety of languages to train, I'll be starting with PHP mostly.
+you do. You choose from a variety of languages to train, I'll be starting with PHP and add other languages later.
 
 ## Ranking System
 
@@ -21,3 +21,17 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 * [Count Duplicates](php/count_duplicates.php)
 * [Morse Code 1](php/morse_code_1.php)
 * [Narcissistic Number](php/narcissistic_number.php)
+* [Exes and Ohs](php/exes_and_ohs.php)
+* [Buying a car](php/buying_a_car.php)
+
+
+### C++:
+
+* [Is this a triangle?](c++/is_this_a_triangle.cpp)
+* [Roman Numerals Decoder](c++/roman_numerals_decoder.cpp)
+
+### Java
+
+* [Beginner Series #3 Sum of Numbers](java/beginner_series_3_sum_of_numbers.java)
+
+
