@@ -21,9 +21,9 @@ function nbMonths($startPriceOld, $startPriceNew, $savingPerMonth, $percentLossB
     
     $totalMoney = $startPriceOld;
     $month = 0;
-	  $percentLossByMonth = $percentLossByMonth/100;
+    $percentLossByMonth = $percentLossByMonth/100;
     $percentLossBimonthly = 0;
-	  $savingSum = 0;
+    $savingSum = 0;
    
     while ($totalMoney < $startPriceNew) {
   	  $month++;

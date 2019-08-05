@@ -34,4 +34,9 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 
 * [Beginner Series #3 Sum of Numbers](java/beginner_series_3_sum_of_numbers.java)
 
+### SQL
+
+* [SQL Basics Simple Union All](sql/sql_basics_simple_union_all.sql)
+* [SQL Basics Simple Join And Rank](sql/sql_basics_simple_join_and_rank.sql)
+
 
