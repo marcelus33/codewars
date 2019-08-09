@@ -15,6 +15,8 @@
 		resultant table schema
 		id
 		name
+
+	https://www.codewars.com/kata/58113a64e10b53ec36000293
 */
 
 SELECT departments.id, departments.name

@@ -37,6 +37,7 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 ### SQL
 
 * [Simple EXISTS](sql/simple_exists.sql)
+* [SQL with Sailor Moon: Thinking about JOINs](sql/sailormoon_thinking_about_joins.sql)
 * [SQL Basics Simple Union All](sql/sql_basics_simple_union_all.sql)
 * [SQL Basics Simple Join And Rank](sql/sql_basics_simple_join_and_rank.sql)
 
