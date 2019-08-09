@@ -24,6 +24,7 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 * [Narcissistic Number](php/narcissistic_number.php)
 * [Exes and Ohs](php/exes_and_ohs.php)
 * [Buying a car](php/buying_a_car.php)
+* [All Inclusive?](php/all_inclusive.php)
 * [Form The Minimum](php/form_the_minimum.php)
 
 
