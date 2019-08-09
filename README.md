@@ -16,6 +16,7 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 
 ### PHP:
 
+* [Build a pile of Cubes](php/build_a_pile_of_cubes.php)
 * [Complementary DNA](php/complementary_dna.php)
 * [Consecutive Strings](php/consecutive_strings.php) 
 * [Count Duplicates](php/count_duplicates.php)
@@ -23,6 +24,7 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 * [Narcissistic Number](php/narcissistic_number.php)
 * [Exes and Ohs](php/exes_and_ohs.php)
 * [Buying a car](php/buying_a_car.php)
+* [Form The Minimum](php/form_the_minimum.php)
 
 
 ### C++:
