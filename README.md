@@ -27,6 +27,9 @@ you do. You choose from a variety of languages to train, I'll be starting with P
 * [All Inclusive?](php/all_inclusive.php)
 * [Form The Minimum](php/form_the_minimum.php)
 
+### Python:
+
+* [Vasya - Clerk](python/vasya_clerk.py)
 
 ### C++:
 
